@@ -102,13 +102,7 @@ const totalToPay = selectedNumbers.reduce(
 
     
 
-   <p>
-  PRUEBA: {JSON.stringify(selectedNumbers)}
-</p>
-
-<p>
-  TOTAL CALCULADO: {totalToPay}
-</p>
+  
   </div>
 )}
         <div className="raffle-numbers-grid">
